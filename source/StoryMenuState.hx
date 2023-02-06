@@ -183,7 +183,7 @@ class StoryMenuState extends MusicBeatState
 		add(txtWeekTitle);
 
 		changeWeek();
-		changeDifficulty
+		changeDifficulty();
 
 		super.create();
 	}
